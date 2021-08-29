@@ -1,0 +1,191 @@
+.card1-holder {
+    width: 339px;
+    height: 474px;
+    float: left;
+    background-color: white;
+}
+
+.card2-holder {
+    width: 339px;
+    height: 493px;
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.shadow-card1 {
+    box-shadow: 0px 16px 40px 0px rgba(112, 144, 176, 0.2);
+}
+.shadow-card2 {
+    box-shadow: 0px, 16px, 40px, rgba(138, 143, 147, 0,2);
+}
+.card1-border {
+    border-radius: 20px;
+    border-color: #EEF0FC;
+}
+.card2-border {
+    border-color: #EFF5FF;
+    border-radius: 20px;
+
+}
+.image-card1 {
+    background-image: url(https://rapidezwriter.com/media/images/photo-1611944212129-29977ae1398c.jpg);
+    width: 339px;
+    height: 232px;
+    border: rgba(238, 249, 252, 1);
+    border-radius: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.image-card2 {
+    background-image: url("https://2x1dks3q6aoj44bz1r1tr92f-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/How-To-Style-A-Comb-Over.jpg");
+    width: 191px;
+    height: 192px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    margin-top: 24px;
+    margin-left: 74px;
+    margin-right: 74px;
+    border-radius: 10px;
+}
+
+.card1-text-box1 {
+    width: 288;
+    height: 64;
+    font-family: Poppins;
+    font-size: 20;
+    font-weight: bold;
+}
+.card1-text-box2 {
+    width: 288px;
+    height: 15px;
+    font-size: 10;
+    color: #A2A6A9;
+    font-weight: normal;
+}
+.card1-text-box3 {
+    width: 288;
+    height: 90;
+    margin-top: 24px;
+    font-size: 16;
+    font-weight: lighter;
+    color:#9C9DFE ;
+}
+
+.card2-tags1-holder {
+    width: 104px;
+    height: 32px;
+    background-color: #46494C;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    margin-top: -16px;
+    position: relative;
+}
+
+
+.card2-tag1 {
+    color: white;
+    font-size: 12;
+    font-weight: bold;
+    margin: auto;
+    padding: 8px;
+    display: inline-block;
+}
+
+.card2-star-icon {
+    background-image: url(https://icons.iconarchive.com/icons/paomedia/small-n-flat/512/star-icon.png);
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.card2-message-icon {
+    background-image: url(https://cdn.iconscout.com/icon/free/png-256/mail-message-type-inbox-write-compose-interface-ui-2-14008.png);
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+}
+.card2-phone-icon {
+    background-image: url(https://www.freeiconspng.com/uploads/phone-icon-png--clipart-best-17.png);
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+}
+
+.card2-contact-holder {
+    width: 230px;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+.card2-contact-message {
+    background: linear-gradient(to right, #4BBEF7, #9C9DFE);
+    font-size: 16;
+    font-weight: normal;
+    color: white;
+    width: 174px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    padding: 8px;
+
+}
+.card2-contact-phone {
+    background-color: #36DB99;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+.card2-info-holder {
+    height: 67px; 
+    width: 339px;
+    display: inline-block;
+    margin-top: 24px;
+}
+
+.card2-info-left {
+    float:left;
+    margin: auto;
+    text-align: center; 
+    font-size: 12px;
+    margin-left: 60px;
+}
+.card2-info-center {
+    float: left;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 82px;
+    margin-right: 71px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.card2-info-right {
+    float:left;
+    text-align: center; 
+    font-size: 12px;
+    margin: auto;
+    margin-right: 60px;
+
+}
