@@ -1,0 +1,22 @@
+.body {
+    margin: 0px;
+}
+.MM-Aside-main {
+    width: 462px;
+    height: 1080vh;
+    margin: 0px;
+    padding: 0px;
+    left: 0px;
+}
+.MM-Aside-header {
+    /* width: 462px; */
+    height: 80px;
+}
+.MM-Nav {
+    width: 100%;
+    height: 176;
+}
+.MM-aside-items {
+    width: 100%;
+    height: 80px;
+}

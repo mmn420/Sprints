@@ -1,0 +1,8 @@
+.uMM-image-contain{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.uMM-click{
+    cursor: pointer;
+}
