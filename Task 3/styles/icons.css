@@ -1,31 +1,31 @@
 .iMM-sizes {
-    width: 32px;
-    height: 32px;
+  width: 32px;
+  height: 32px;
 }
 .iMM-logo {
-    background-image: url('../icons/Logo.svg');
+  background-image: url("../icons/Logo.svg");
 }
-.iMM-paryer{
-    background-image: url('../icons/Mask\ Group\ 5.svg') ;
+.iMM-paryer {
+  background-image: url("../icons/prayer.svg");
 }
-.iMM-dashboard{
-    background-image: url('../icons/Mask\ Group\ 2.svg') ;
+.iMM-dashboard {
+  background-image: url("../icons/dashboard.svg");
 }
-.iMM-tasks{
-    background-image: url('../icons/Mask\ Group\ 7.svg') ;
+.iMM-tasks {
+  background-image: url("../icons/tasks.svg");
 }
-.iMM-menu{
-    background-image: url('../icons/menuIcon.svg') ;
+.iMM-menu {
+  background-image: url("../icons/menuIcon.svg");
 }
-.iMM-reminders{
-    background-image: url('../icons/Mask\ Group\ 4.svg') ;
+.iMM-reminders {
+  background-image: url("../icons/reminders.svg");
 }
-.iMM-MyPocket{
-    background-image: url('../icons/Mask\ Group\ 6.svg') ;
+.iMM-MyPocket {
+  background-image: url("../icons/mypocket.svg");
 }
-.iMM-Categories{
-    background-image: url('../icons/Mask\ Group\ 9.svg') ;
+.iMM-Categories {
+  background-image: url("../icons/categories.svg");
 }
-.iMM-Archives{
-    background-image: url('../icons/Mask\ Group\ 8.svg') ;
+.iMM-Archives {
+  background-image: url("../icons/archives.svg");
 }
