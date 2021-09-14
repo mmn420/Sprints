@@ -1,0 +1,20 @@
+/* backgrounds */
+.cM0-bg-main{
+    background-color: #457AFB;
+}
+.cM0-bg-main-25{
+    background-color: rgba(69, 122, 251, .25);
+}
+.cM0-bg-dark{
+    background-color: #393D42;
+}
+.cM0-bg-white{
+    background-color: #F8F9FA;
+}
+/* colors */
+.cM0-white{
+ color: #F8F9FA;   
+}
+.cM0-dark{
+    color: #393D42;
+}
